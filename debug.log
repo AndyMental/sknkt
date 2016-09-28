@@ -2,3 +2,11 @@
 [0927/064246:ERROR:process_info.cc(608)] range at 0x87d1b8800000000, size 0x74 fully unreadable
 [0927/064246:ERROR:process_info.cc(608)] range at 0x0, size 0x74 fully unreadable
 [0927/064246:WARNING:in_range_cast.h(38)] value 498359014528 out of range
+[0928/021347:ERROR:process_info.cc(608)] range at 0x302d1b5800000000, size 0x96 fully unreadable
+[0928/021347:ERROR:process_info.cc(608)] range at 0x302d1b7800000000, size 0x96 fully unreadable
+[0928/021347:ERROR:process_info.cc(608)] range at 0x0, size 0x96 fully unreadable
+[0928/021347:WARNING:in_range_cast.h(38)] value 645053767024 out of range
+[0928/021757:ERROR:process_info.cc(608)] range at 0x9edd1b5800000000, size 0xad fully unreadable
+[0928/021757:ERROR:process_info.cc(608)] range at 0x9edd1b7800000000, size 0xad fully unreadable
+[0928/021757:ERROR:process_info.cc(608)] range at 0x0, size 0xad fully unreadable
+[0928/021757:WARNING:in_range_cast.h(38)] value 745695024400 out of range
